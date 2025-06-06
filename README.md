@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basil Poul</h1>
-<h3 align="center">A passionate Software developer and AI enthusiast from India</h3>
-
-# 💫 About Me:
-🔭 I’m currently Studying MCA at CET
-
+<h3 align="center">A passionate Software developer and AI enthusiast</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basil.paul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basil-poul-02a8a3222) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basilpaul230@gmail.com) 
